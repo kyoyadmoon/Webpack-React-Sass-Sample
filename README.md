@@ -1,4 +1,4 @@
-# Webpack-React-Sample
+# Webpack-React-Example
 Implement LiveReload with react-hot-loader &amp; webpack-dev-server
 
 It is a practice to learn how to use Webpack with React.
