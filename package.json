@@ -1,5 +1,5 @@
 {
-  "name": "Webpack+React Sample",
+  "name": "Webpack-React-Sample",
   "author": "DMoon.t",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
