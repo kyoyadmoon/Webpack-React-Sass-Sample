@@ -1,8 +1,8 @@
 'use strict';
 
 var React = require('react');
-var TestOne = require('./TestOne.js');
-var TestTwo = require('./TestTwo.js');
+var TestOne = require('./component/TestOne.jsx');
+var TestTwo = require('./component/TestTwo.jsx');
 
 var Main = React.createClass({
     getInitialState: function() {
